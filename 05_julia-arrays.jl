@@ -18,7 +18,7 @@ println(last(A))
 n = 3
 println(last(A, 3))
 
-
+# Removing the elements 
 # removing the last element 
 pop!(A)
 println(A)

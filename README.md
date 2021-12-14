@@ -23,4 +23,5 @@
 - for loops different types 
 
 ## 5. Arrays in Julia 
-- Accesing the Elements 
+- Accesing the Elements
+- Removing the Elements  
