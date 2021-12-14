@@ -14,3 +14,6 @@
 - Comparisions
 
 ## Conditionals in Julia
+- if | elseif | else  statements
+- Turnary Operator (Conditional statements)
+
