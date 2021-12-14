@@ -17,3 +17,7 @@
 - if | elseif | else  statements
 - Turnary Operator (Conditional statements)
 
+## Loops in Julia 
+- while loop (using global variables) 
+- break and continue statements 
+- for loops different types 
