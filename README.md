@@ -2,22 +2,25 @@
 
 ### Get Started with juia programming language  
 
-## Namaste Julia
+## 1. Namaste Julia
 - print statements
 - variables 
 - Datatypes (Assertion special)
 
-## Strings in Julia
+## 2. Strings in Julia
 - Assigning | Printing | Accessing 
 - Concatination
 - Formating and Multiline string
 - Comparisions
 
-## Conditionals in Julia
+## 3. Conditionals in Julia
 - if | elseif | else  statements
 - Turnary Operator (Conditional statements)
 
-## Loops in Julia 
+## 4. Loops in Julia 
 - while loop (using global variables) 
 - break and continue statements 
 - for loops different types 
+
+## 5. Arrays in Julia 
+- Accesing the Elements 
