@@ -3,6 +3,9 @@ using Printf
 # Printing Stuffs
 println("Namaste Julia")
 
+s = "namaste"
+@printf("%s\n", s)
+
 # Variables 
 s = 100
 println(s)

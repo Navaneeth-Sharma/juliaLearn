@@ -29,12 +29,9 @@ println("$i1 + $i2 = $(i1 + i2)")
 
 # multiline string
 s1 = """
-
 Multi
 line 
 string 
-
-
 """
 println(s1)
 
