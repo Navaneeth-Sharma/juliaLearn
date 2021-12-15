@@ -25,3 +25,7 @@
 ## 5. Arrays in Julia 
 - Accesing the Elements
 - Removing the Elements  
+- Size of the Array
+- Sum of the Array
+- Maximum and Minimum of the Array
+- Multiplication of the Array with constant 
