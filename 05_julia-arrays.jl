@@ -76,5 +76,6 @@ end
 # Multi dimentional arrays
 D = [1 2 3; 4 5 6]
 
-println(D[:, 2])
-println(D[2, :])
+println(D[:, 2]) #2nd column 
+println(D[2, :]) #2nd row
+
