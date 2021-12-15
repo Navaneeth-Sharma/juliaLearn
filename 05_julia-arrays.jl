@@ -59,3 +59,22 @@ println(minimum(A))
 
 # Multiply a constant 
 println(A * 2)
+
+
+# multiple data types in array
+B = [1, 3.14259, "Namaste"]
+println(B)
+
+# storing functions inside an array #COOL!!!
+C = [sin, cos, tan]
+
+for c in C
+    println(c(0))
+end
+
+
+# Multi dimentional arrays
+D = [1 2 3; 4 5 6]
+
+println(D[:, 2])
+println(D[2, :])
