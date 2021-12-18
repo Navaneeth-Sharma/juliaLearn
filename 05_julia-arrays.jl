@@ -79,3 +79,17 @@ D = [1 2 3; 4 5 6]
 println(D[:, 2]) #2nd column 
 println(D[2, :]) #2nd row
 
+# array comprehension 
+E = [n^2 for n in 1:5]
+println(E)
+
+# Appending the array
+push!(E, 36)
+
+# multi dim array comprehension
+F = [n * m for n in 1:5, m in 1:5]
+println(F)
+
+# create random arrays
+# 5x5 matrix -  random 
+a1 = rand(0:9, 5, 5)
