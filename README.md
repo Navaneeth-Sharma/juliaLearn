@@ -1,6 +1,6 @@
 # Julia Learn
 
-Get Started with juia programming language
+Get Started with julia programming language
 
 ## 1. Namaste Julia
 
