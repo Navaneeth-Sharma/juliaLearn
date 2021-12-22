@@ -29,3 +29,33 @@
 - Sum of the Array
 - Maximum and Minimum of the Array
 - Multiplication of the Array with constant 
+
+## 6. Tuples in Julia 
+- Accessing the Elements
+- Removing the Elements
+
+## 7. Dictionaries in Julia 
+- Accessing the Elements
+- Removing the Elements
+- Size of the Dictionary
+- values of the Dictionary
+- keys of the Dictionary
+
+## 8. Sets in Julia 
+- Creating a Set
+- Accessing the elements
+- Removing the elements
+- Size of the Set
+- Union of the Sets
+- Intersection of the Sets
+- Difference of the Sets
+
+## 9. Functions in Julia
+- Function definition
+- Function call
+- Function with arguments
+- Function with default arguments  
+
+
+## 10. Maths in Julia
+- varoius functions
