@@ -45,3 +45,4 @@ function getSum2(num1::Number, num2::Number)
 end
 
 println(getSum2(2,3))
+
