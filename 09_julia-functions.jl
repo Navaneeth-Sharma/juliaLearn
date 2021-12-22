@@ -46,3 +46,13 @@ end
 
 println(getSum2(2,3))
 
+# Anonymous 
+v2 = map(x -> x * x, [1,2,3])
+println(v2)
+
+v3 = map((x,y) -> x + y, [1,2], [3,4])
+println(v3)
+
+# Uses fn multiple times to get the final result
+v4 = reduce(+, 1:100)
+println(v4)
